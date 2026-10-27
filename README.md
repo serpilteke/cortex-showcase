@@ -1,6 +1,6 @@
 # cortex-showcase
 
-CORTEX — Kurumsal İstihbarat Platformu
+#CORTEX — Kurumsal İstihbarat Platformu
 
 CORTEX, kurumsal iş süreçlerini ve operasyonel verileri ortak bir uygulama yaklaşımıyla ele almak amacıyla geliştirilen kişisel bir yazılım projesidir.
 
